@@ -1,6 +1,6 @@
 # FindTrash
 
 
-Addin a note from my repository  - sam
+Adding a note from my repository to make sure commit syncs  - sam
 
  
